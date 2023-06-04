@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+}
+body {
+  background-color: rgb(53, 48, 48);
+  color: white;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+select {
+  width: 200px;
+  height: 40px;
+}
